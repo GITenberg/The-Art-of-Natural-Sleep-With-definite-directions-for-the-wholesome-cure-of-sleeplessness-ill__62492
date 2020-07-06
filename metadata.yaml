@@ -1,0 +1,29 @@
+_repo: The-Art-of-Natural-Sleep-With-definite-directions-for-the-wholesome-cure-of-sleeplessness-ill__62492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, Lyman P. (Lyman Pierson)
+    alias: Powell, Lyman Pierson
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '41127'
+    url: http://www.gutenberg.org/2009/agents/41127
+description: ''
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62492'
+  lccn: unk81001003
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insomnia'
+- !lcsh 'Emmanuel movement'
+- !lcc 'RC'
+- !lcsh 'Sleep'
+- GITenberg
+title: "The Art of Natural Sleep\r\nWith definite directions for the wholesome cure\
+  \ of sleeplessness: illustrated by cases treated in Northampton and elsewhere"
+url: http://www.gutenberg.org/ebooks/62492
