@@ -1,5 +1,8 @@
 _repo: The-Art-of-Natural-Sleep-With-definite-directions-for-the-wholesome-cure-of-sleeplessness-ill__62492
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62492-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, Lyman P. (Lyman Pierson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41127'
     url: http://www.gutenberg.org/2009/agents/41127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62492#The-Art-of-Natural-Sleep-With-definite-directions-for-the-wholesome-cure-of-sleeplessness-ill_
 gutenberg_issued: '2020-06-29'
 gutenberg_type: Text
 identifiers:
